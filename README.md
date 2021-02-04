@@ -1,6 +1,6 @@
 ## AlphoneInjector
 
-Releases for the Injector for AlphoneLite (https://github.com/IAJWasTooShort/AlphoneLite)
+Releases for the Injector for [AlphoneLite](https://github.com/IAJWasTooShort/AlphoneLite)
 
 # Features
 
